@@ -1,0 +1,10 @@
+body {
+    background-color: #55918f;
+    color: #ffff;
+    text-align: center;
+    font-size: 30px;
+}
+body a p{
+    color: rgb(15, 14, 14);
+    font-size: 20px;
+}
